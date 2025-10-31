@@ -43,4 +43,10 @@ section {
   border-radius: 25px;
   margin: 0 60px;
   padding: 10px 0;
+}
+@media (max-width: 776px) {
+  #weather .box {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }/*# sourceMappingURL=style.css.map */
